@@ -1,0 +1,65 @@
+/* .row {
+  padding: 50px 300px;
+  background-color: #dadada !important;
+  display: flex;
+  align-items: center;
+}
+
+.text1 {
+  color: rgb(61, 61, 61);
+  letter-spacing: 21px;
+  max-width: 200px;
+  font-size: 1.3rem;
+  margin-bottom: 0;
+}
+.text2 {
+  color: rgb(61, 61, 61);
+  letter-spacing: 10px;
+  white-space: nowrap;
+  max-width: 200px;
+  font-size: 1.3rem;
+}
+.p-text {
+  max-width: 235px;
+  color: rgb(61, 61, 61);
+  font-size: 0.8rem;
+} */
+
+.text-container {
+  background-color: #dadada !important;
+  padding: 50px 0px;
+}
+
+.text1 {
+  color: rgb(61, 61, 61);
+  letter-spacing: 21px;
+  max-width: 200px;
+  font-size: 1.3rem;
+  margin-bottom: 0;
+}
+
+.text2 {
+  color: rgb(61, 61, 61);
+  letter-spacing: 10px;
+  white-space: nowrap;
+  max-width: 200px;
+  font-size: 1.3rem;
+}
+
+.p-text {
+  color: rgb(61, 61, 61);
+  font-size: 0.8rem;
+}
+
+.p-text span {
+  /* Use a monospace font to ensure equal character width */
+  width: 100%;
+}
+
+/* .p-text span:nth-of-type(2) {
+  word-spacing: 5px;
+}
+
+.p-text span:last-of-type {
+  word-spacing: 15px;
+} */

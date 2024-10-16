@@ -1,0 +1,29 @@
+.enrollSection {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  margin-top: 10px;
+
+  background-color: #dadada;
+}
+img {
+  width: 350px;
+  height: 500px;
+}
+.content {
+  margin-top: 100px;
+  height: 250px;
+  max-width: 350px;
+}
+.content button {
+  background-color: #f18c4d;
+  color: white;
+  width: 200px;
+  font-size: 1.3rem;
+  font-weight: 100;
+}
+.content p {
+  font-size: 2.3rem;
+  color: rgb(61, 61, 61);
+  font-weight: 100;
+}

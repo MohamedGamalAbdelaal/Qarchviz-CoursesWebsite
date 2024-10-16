@@ -1,0 +1,51 @@
+html{
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+}
+section{
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+}
+.vedioItem video{
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+.containSection h1{
+    font-weight: 400;
+    color: rgba(45,45,45,255);
+    margin-bottom: 30px;
+}
+.containSection h3{
+    font-weight: 200;
+    color: rgba(45,45,45,255);
+    max-width: 700px;
+    font-size: 1.7rem;
+}
+.courseDetails{
+    position: relative;
+}
+.courseDetails img{
+    height: 620px;
+    border-radius: 10px;
+}
+.courseText{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.courseText p{
+margin: 5px;
+padding: 0;
+color: rgb(245, 245, 245);
+}
+h5, h6{
+    color: #f18c4d !important;
+}
+.courseText button{
+    background-color: #f18c4d;
+    color: rgb(245, 245, 245);
+    margin: 10px;
+    width: 250px;
+    border-radius: 15px;
+}

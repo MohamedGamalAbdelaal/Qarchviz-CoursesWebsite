@@ -1,0 +1,64 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.started{
+    width: 100%;
+    height: 100vh;
+    overflow: auto;
+    position: relative;
+}
+.started img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow:auto;
+}
+.login{
+    width: 400px;
+    height: 550px;
+    background-color: #00000081;
+    position: absolute;
+    border-radius: 20px;
+    top:120px;
+    left: 100px;
+    max-height: px;
+  }
+  .btn3{
+    background-color:  #f18c4d;
+    color: whitesmoke;
+    border-radius:20px 0 0px 20px;
+    padding: 10px 60px;
+  }
+  .btn3:hover{
+    color:  #f18c4d;
+    background-color: whitesmoke;
+    border-radius:20px 0 0px 20px;
+    padding: 10px 60px;
+  }
+  .btn4{
+    background-color:  #747272;
+    border-radius: 0px 20px 20px 0px;
+    color: whitesmoke;
+    padding: 10px 60px;
+  }
+  .btn4:hover{
+    color:  #747272;
+    border-radius: 0px 20px 20px 0px;
+    background-color: whitesmoke;
+    padding: 10px 60px;
+  }
+  .btn5{
+    width: 75% ;
+    margin-left:95px;
+    margin-top: 50px;
+    color: whitesmoke;
+    background-color:  #f18c4d;
+  }
+  .btn5:hover{
+    width: 75% ;
+    margin-left:95px;
+    margin-top: 50px;
+    background-color: whitesmoke;
+    color:  #f18c4d;
+  }

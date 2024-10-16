@@ -1,0 +1,11 @@
+.vidoeButton {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  background-color: transparent;
+  width: 30px;
+  height: 30px;
+  color: #fff;
+  border-radius: 50%;
+  border: 1px solid #000;
+}

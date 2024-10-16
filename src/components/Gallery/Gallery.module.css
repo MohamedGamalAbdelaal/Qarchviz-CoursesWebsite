@@ -1,0 +1,18 @@
+.imageSlide{
+    width: 25%;
+    height: 500px;
+}
+.gallerySection{
+    background-color: #dadada;
+    margin-top: 5px;
+    
+    
+}
+.gallerySection p{
+    color: rgb(61, 61, 61);
+text-align: center;
+font-size: 2.5rem !important;
+letter-spacing: 15px;
+font-weight: 100;
+padding: 50px 0;
+}
